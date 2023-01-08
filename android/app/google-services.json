@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345927656771",
+    "project_id": "foodiyo-8a8d6",
+    "storage_bucket": "foodiyo-8a8d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345927656771:android:927343dc1355243eb0fbf6",
+        "android_client_info": {
+          "package_name": "com.abishek.foodiyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345927656771-pflro8sfgbqgj0iju8gqnab5tm5qkbd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEao8fu65Ox9gcuO2ZPcEASAv_nkc2RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345927656771-pflro8sfgbqgj0iju8gqnab5tm5qkbd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
