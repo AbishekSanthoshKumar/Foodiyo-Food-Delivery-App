@@ -6,6 +6,7 @@ Foodiyo was created by me (Abishek Santhosh Kumar) for my college project while 
 
 This app is basically a food delivery service app which has been written in Dart language using the Flutter framework. The backend has been implemented using Firebase, which is a cloud-based server for storing data and also for Authentication purpose.
 
+![alt text](https://github.com/AbishekSanthoshKumar/Foodiyo-Food-Delivery-App/blob/master/app%20screenshots/Foodiyo.jpg)
 
 In this project there are 2 sections - Customer and Restaurant. Both of them will have a login and registration page which is very simple and can be done very quickly. Once both of them sign in, they will be navigated to their corresponding homepage.
 
@@ -18,9 +19,8 @@ In the customer section, the homepage consists of a list view of restaurants, wh
 
 
 In the restaurant section, the homepage consists of a list view of their menu items. There will also be a button which will enable them to add new items to their menu. They can also update their product price using the update button.
-![alt text](https://github.com/AbishekSanthoshKumar/Foodiyo-Food-Delivery-App/blob/master/app%20screenshots/Foodiyo.jpg)
-![alt text](https://github.com/AbishekSanthoshKumar/Foodiyo-Food-Delivery-App/blob/master/app%20screenshots/Restaurant%20View%20Description%20Page.jpg)
 ![alt text](https://github.com/AbishekSanthoshKumar/Foodiyo-Food-Delivery-App/blob/master/app%20screenshots/Restaurant%20View%20Menu.jpg)
+![alt text](https://github.com/AbishekSanthoshKumar/Foodiyo-Food-Delivery-App/blob/master/app%20screenshots/Restaurant%20View%20Description%20Page.jpg)
 
 I received 100/100 marks for this project and its presentation.
 
