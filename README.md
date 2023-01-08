@@ -1,5 +1,7 @@
 # foodiyo
 
+![alt text](https://github.com/AbishekSanthoshKumar/Foodiyo-Food-Delivery-App/blob/master/images/Foodiyo.png)
+
 Foodiyo was created by me (Abishek Santhosh Kumar) for my college project while studying for my Bachelor Of Computer Applications Course in University of Kerala.
 
 This app is basically a food delivery service app which has been written in Dart language using the Flutter framework. The backend has been implemented using Firebase, which is a cloud-based server for storing data and also for Authentication purpose.
