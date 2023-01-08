@@ -1,6 +1,6 @@
 # foodiyo
 
-https://github.com/AbishekSanthoshKumar/Foodiyo-Food-Delivery-App/blob/master/images/Foodiyo.png
+![alt text](https://github.com/AbishekSanthoshKumar/Foodiyo-Food-Delivery-App/blob/master/images/Foodiyo.png)
 
 Foodiyo was created by me (Abishek Santhosh Kumar) for my college project while studying for my Bachelor Of Computer Applications Course in University of Kerala.
 
